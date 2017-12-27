@@ -1,0 +1,9 @@
+name = "Inspired"
+license = "MIT"
+licenselink = "https://github.com/styler3/inspired-hugo-theme/blob/master/LICENSE.md"
+description = "Theme for https://inspiredbyaimee.com"
+min_version = 0.18
+
+[author]
+  name = "Sam Tyler"
+  homepage = "https://samtyler.com.au"
