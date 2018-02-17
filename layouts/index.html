@@ -10,7 +10,9 @@
 
   {{ range .Paginator.Pages }}
   <article>
-    <img src="{{ .RelPermalink }}img/thumbnail.jpg">
+    <a href="{{ .RelPermalink }}">
+      <img src="{{ .RelPermalink }}img/thumbnail.jpg">
+    </a>
     <header>
       <img src="">
       <h2>{{ .Title }}</h2>
